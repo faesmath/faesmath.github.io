@@ -28,8 +28,8 @@ ul li {
 }
 
 nav ul li, nav ul li a {
-    color: Crimson;
-    font-size: 16pt;
+    color: #793a9a; /* #47225a FAES Purple*/
+    font-size: 20pt;
     line-height: 18pt;
     display: inline;
     margin-right: 20px;
@@ -41,7 +41,7 @@ footer ul li {
 }
 
 a {
-  color: Crimson; /* #DC143C DarkOrange; #FF8C00 DarkOrange #FF4500 OrangeRed #FF6347 'Tomato' #9370DB; 'MediumPurple' #6B8E23; 'OliveDrab' */
+  color: #793a9a; /* #DC143C DarkOrange; #FF8C00 DarkOrange #FF4500 OrangeRed #FF6347 'Tomato' #9370DB; 'MediumPurple' #6B8E23; 'OliveDrab' */
   text-decoration: none;
   font-family: Georgia, "Big Caslon", "Book Antiqua", "Palatino Linotype", serif /* Garamond, "Hoefler Text" */
 }
@@ -98,10 +98,11 @@ ul.posts li {
 
 /* Dropdown Button */
 .dropbtn {
-  background-color: #4CAF50;
-  color: white;
-  padding: 16px;
-  font-size: 16px;
+  background-color: white;
+  color: #793a9a;
+  padding: 8px;
+  font-size: 20pt;
+  font-family: monaco, Consolas, "Lucida Console", monospace;
   border: none;
 }
 
@@ -115,7 +116,7 @@ ul.posts li {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f1f1f1;
+  background-color: white;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -123,9 +124,11 @@ ul.posts li {
 
 /* Links inside the dropdown */
 .dropdown-content a {
-  color: black;
+  color: #793a9a;
   padding: 12px 16px;
+  font-size: 16pt;
   text-decoration: none;
+  font-family: monaco, Consolas, "Lucida Console", monospace;
   display: block;
 }
 
@@ -136,4 +139,4 @@ ul.posts li {
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {background-color: #DCDCDC;}
