@@ -27,7 +27,7 @@ cd ~/git/faesmath.github.io/src
 
 # Verify correct branch
 git checkout develop
-cp -r $WINHOME/git/caesoma.github.io/src/ $WINHOME/git/caesomasrccopy/
+cp -r $WINHOME/git/faesmath.github.io/src/ $WINHOME/git/faesmathsrccopy/
 
 # git stage <modified files here>
 git stage .
