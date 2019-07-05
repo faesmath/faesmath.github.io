@@ -21,6 +21,7 @@
 # stack exec site build
 # stack exec site watch  # http://127.0.0.1:8000/.
 
+#pass custom home dir as argument
 HOMEDIR=$1
 
 # Temporarily store uncommited changes
