@@ -1,6 +1,6 @@
 ---
 author: caetano souto maior
-title: Learning resources
+title: learning resources
 layout: default
 ---
 

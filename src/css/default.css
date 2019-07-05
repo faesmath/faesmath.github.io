@@ -1,8 +1,8 @@
 body {
-    background-image: url(../images/gp.png);
+    background-image: url(../images/faesmath-wide.png);
     background-position: center top;
     background-repeat: no-repeat;
-    background-size: 1200px 130px;
+    background-size: 1300px 250px;
     margin: 100px auto;
     width: 70%;
     font-size: 15pt;
@@ -98,7 +98,7 @@ ul.posts li {
 
 /* Dropdown Button */
 .dropbtn {
-  background-color: white;
+  background-color: transparent;
   color: #793a9a;
   padding: 8px;
   font-size: 20pt;

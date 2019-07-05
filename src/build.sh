@@ -21,13 +21,15 @@
 # stack exec site build
 # stack exec site watch  # http://127.0.0.1:8000/.
 
+HOMEDIR=$1
+
 # Temporarily store uncommited changes
-cd ~/git/faesmath.github.io/src
+cd $HOMEDIR/git/faesmath.github.io/src
 #git stash
 
 # Verify correct branch
 git checkout develop
-cp -r $WINHOME/git/faesmath.github.io/src/ $WINHOME/git/faesmathsrccopy/
+cp -r $HOMEDIR/git/faesmath.github.io/src/ $HOMEDIR/git/faesmathsrccopy/
 
 # git stage <modified files here>
 git stage .
