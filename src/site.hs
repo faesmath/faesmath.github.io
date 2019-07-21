@@ -45,7 +45,7 @@ main = hakyll $ do
         route   idRoute
         compile copyFileCompiler
 
-    match (fromList ["math127.md", "math128.md", "math215.md", "resources.md"]) $ do
+    match (fromList ["math127.md", "math128.md", "math215.md", "resources.md", "login.md"]) $ do
         route   $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/default.html" defaultContext
