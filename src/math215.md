@@ -12,4 +12,4 @@ A textbook in linear algebra is required for this course. The adopted and recomm
 An alternative text is [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/) by Jim Hefferon, adopted in previous semesters, which has an open online version and affordable hard copies.
 
 Here you can find a preliminary [syllabus](http://faesmath.github.io//files/FAES_MATH215_FALL2019_syllabus.pdf).
-If you are enrolled in this course you can log into the student course page using [this link](https://canvas.instructure.com/login/canvas).
+If you are enrolled in this course you can log into the student course page using [this link](https://canvas.instructure.com/login/canvas), or you can enroll [here](https://faes.org/courses).

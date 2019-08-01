@@ -13,4 +13,4 @@ _Biocalculus_ covers the syllabus of this course, but only partially covers that
 A third alternative is the [Apex Calculus](http://www.apexcalculus.com/) textbook -- adopted in previous semesters -- which has an open online version and affordable hard copies.
 
 Here you can find a preliminary [syllabus](http://faesmath.github.io/files/FAES_MATH127_FALL2019_syllabus.pdf).
-If you are enrolled in this course you can log into the student course page using [this link](https://canvas.instructure.com/login/canvas).
+If you are enrolled in this course you can log into the student course page using [this link](https://canvas.instructure.com/login/canvas), or you can enroll [here](https://faes.org/courses).
