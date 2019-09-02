@@ -30,7 +30,7 @@ cd $GITDIR/faesmath.github.io/src
 
 # Verify correct branch
 git checkout develop
-cp -r $GITDIR/faesmath.github.io/src/ $GITDIR/faesmathsrccopy/
+cp -r $GITDIR/faesmath.github.io/src $GITDIR/faesmath.github.io/copy
 
 # git stage <modified files here>
 git stage .
