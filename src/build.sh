@@ -34,7 +34,7 @@ cp -r $GITDIR/faesmath.github.io/src $GITDIR/faesmath.github.io/copy
 
 # git stage <modified files here>
 git stage .
-git commit -m "shell build"
+git commit -m "hakyll build"
 git push origin develop
 
 # Build new files
