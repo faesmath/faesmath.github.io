@@ -23,6 +23,7 @@
 
 #pass custom home dir as argument
 GITDIR=$1
+COPY=$2
 
 # Temporarily store uncommited changes
 cd $GITDIR/faesmath.github.io/src
@@ -30,7 +31,10 @@ cd $GITDIR/faesmath.github.io/src
 
 # Verify correct branch
 git checkout develop
-cp -r $GITDIR/faesmath.github.io/src $GITDIR/faesmath.github.io/copy
+if [ $COPY = true ]; then
+    cp -r $GITDIR/faesmath.github.io/src $GITDIR/faesmath.github.io/copy
+    rm -rf $GITDIR/faesmath.github.io/copy/.stack-work
+fi
 
 # git stage <modified files here>
 git stage .
