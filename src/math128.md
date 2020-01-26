@@ -10,7 +10,7 @@ The course begins with a review of calculus, vectors, and parametric functions, 
 
 A textbook covering multivariable calculus is required, so all students need at least a (free) digital copy of [APEX Calculus](http://www.apexcalculus.com/) (affordable hard copies are available in different volumes; they should include at least chapters 10-14 for this course); it is a concise text that covers all the essential topics. Other textbooks may be used as long as they cover the topics listed in the syllabus, for instance [Calculus: Early Transcendentals](https://www.cengage.com/c/calculus-early-transcendentals-9e-stewart/9781337613927PF/) a version of which has been used in the previous course (any edition from the 6th on will cover the course topics, earlier editions probably will as well).
 
-Here you will be able to find the course syllabus [syllabus](http://faesmath.github.io/files/FAES_MATH128_Spring2020_syllabus.pdf).
+Here you will be able to find the course [syllabus](http://faesmath.github.io/files/FAES_MATH128_Spring2020_syllabus.pdf).
 If you are enrolled in this course you can log into the student course page using [this link](https://canvas.instructure.com/login/canvas), or you can enroll [here](https://faes.org/courses).
 
 <!-- MATH 128 expands on the previous course to include the application of calculus concepts to functions of multiple variables and differential equations.
