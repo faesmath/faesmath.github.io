@@ -4,6 +4,7 @@ title: learning resources
 layout: default
 ---
 
+- [ASUx Precalculus](https://www.edx.org/course/precalculus-asux-mat170x)
 - [MIT Open Courseware Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 - [MIT Open Courseware Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/)
 - [MIT Open Courseware Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/)
