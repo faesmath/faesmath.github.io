@@ -1,6 +1,6 @@
 ---
 author: caetano
-title: "Notes on coordinate systems and representation of vectors"
+title: "Notes on coordinate systems and representation of vectors in spaces/subspaces"
 date: 2020-09-29
 layout: post
 ---
