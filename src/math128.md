@@ -1,10 +1,10 @@
 ---
 author: caetano souto maior
-title: MATH 128
+title: "MATH 128: Multivariable Calculus"
 layout: default
 ---
 
-Welcome to the webpage for the Spring 2020 MATH 128 course -- Calculus II: Multivariable Calculus -- at the FAES Graduate School at NIH. This course extends the previous calculus course ([MATH 127](https://faesmath.github.io/math127); one semester of calculus is a prerequisite) to include the study of functions of multiple variables and their nontrivial consequences to applications and theory.
+Welcome to the webpage for the MATH 128 course -- Calculus II/Multivariable Calculus -- at the FAES Graduate School at NIH. This course extends the previous calculus course ([MATH 127](https://faesmath.github.io/math127); one semester of calculus is a prerequisite) to include the study of functions of multiple variables and their nontrivial consequences to applications and theory.
 
 The course begins with a review of calculus, vectors, and parametric functions, then moving on to partial derivatives, maxima and minima of multivariable functions, double and triple integrals, and some advanced topics of vector calculus. In addition to the conceptual changes, moving from one-dimensional domain and range functions \\(f(x)\\) to vector-valued ones such as \\(F(x,y,z) \\) allows realistic models from the natural sciences to be addressed and expands the box of calculus tools to an extensive and flexible set.
 
