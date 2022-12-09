@@ -10,7 +10,7 @@ This seven-week course introduces mathematical modeling of biological systems wi
 
 
 **Prerequisites**
-Previous knowledge (preferably a full-semester course) of calculus is strongly recommended, but not required -- solid understanding of functions of the form y=f(x) and their 2D graphing is required.
+Previous knowledge (preferably a full-semester course) of calculus is strongly recommended, but not required -- solid understanding of functions of the form \\(y=f(x)\\) and their 2D graphing is required.
 
 
 Learning Objectives:
